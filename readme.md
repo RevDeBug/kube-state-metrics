@@ -1,0 +1,1 @@
+Basic configuration of kube-state-metrics. You can find more information about it [here](https://github.com/kubernetes/kube-state-metrics)
